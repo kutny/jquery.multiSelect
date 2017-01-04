@@ -1,0 +1,9 @@
+{
+  "name": "jquery-multiselect",
+  "homepage": "https://github.com/kutny/jquery.multiSelect",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kutny/jquery.multiSelect.git"
+  },
+  "version": "1.0.2"
+}
